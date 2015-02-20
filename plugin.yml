@@ -1,0 +1,12 @@
+name: Infusion
+main: Infusion
+description: requested plugin made by undeaD_D
+version: 1.0
+author: DieFriiks
+authors: [DieFriiks, undeaD_D]
+databse: false
+
+commands:
+  geocmd:
+    usage: /infusion <reload/reset/disable>
+    description: Admin commands for GeoCmd
