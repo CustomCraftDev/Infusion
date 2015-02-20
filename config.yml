@@ -1,0 +1,10 @@
+debug: false
+msg:
+  prefix: '&7[&cInfusion&7]'
+  noperm: '&c/You do not have enough access privileges for this operation.'
+  onall: ' was enabled'
+  offall: 'was disabled'
+
+can_enchant:
+  id: 120
+  materials: 'WOOD_HOE,WOOD_SPADE,WOOD_PICKAXE,WOOD_AXE,STONE_HOE,STONE_SPADE,STONE_PICKAXE,STONE_AXE,IRON_HOE,IRON_SPADE,IRON_PICKAXE,IRON_AXE,DIAMOND_HOE,DIAMOND_SPADE,DIAMOND_PICKAXE,DIAMOND_AXE,GOLD_HOE,GOLD_SPADE,GOLD_PICKAXE,GOLD_AXE'
